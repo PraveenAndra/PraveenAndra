@@ -10,13 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing a Ma
 
 💬 Feel free to reach out if you want to talk about technology, software development, or collaborate on an exciting project!
 
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/PraveenAndra?style=social)
-![GitHub stars](https://img.shields.io/github/stars/PraveenAndra?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenAndra&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenAndra&show_icons=true&count_private=true&theme=radical)
-
 ## About Me
 
 I'm a developer with a deep interest in **cloud computing**, **DevOps**, and **full-stack development**. I have hands-on experience in designing, developing, and optimizing cloud applications.
@@ -30,15 +23,15 @@ Here's a snapshot of my technical skills:
 
 ## 🚀 Projects
 
-### [Full-Stack Banking Application](https://github.com/yourusername/full-stack-banking)
+### [Full-Stack Banking Application](https://github.com/PraveenAndra/FinVault)
 - A cross-border banking app built with React.js and Spring Boot.
 - **Key Features**: Multi-currency support, secure login, and backend optimized with PostgreSQL.
 
-### [Social Networking Platform](https://github.com/yourusername/social-network)
+### [Social Networking Platform](https://github.com/PraveenAndra/LinkedIn)
 - Scalable backend for a LinkedIn-like platform built with Java, Neo4j, and Kafka.
 - **Key Features**: Real-time notifications, microservices architecture, and event-driven design.
 
-### [Hotel Booking System](https://github.com/yourusername/hotel-booking)
+### [Hotel Booking System](https://github.com/PraveenAndra/Hotel-Booking-Management)
 - Backend API for a hotel booking platform using Java, Spring Boot, and JWT authentication.
 - **Key Features**: Occupancy-based pricing, role-based access control.
 
@@ -51,9 +44,9 @@ Here's a snapshot of my technical skills:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenAndra&show_icons=true&count_private=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenAndra&theme=radical)
 
 ## 📬 Contact Me
 

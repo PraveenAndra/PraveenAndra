@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing a Ma
 
 ## Badges
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/PraveenAndra?style=social)
+![GitHub stars](https://img.shields.io/github/stars/PraveenAndra?style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenAndra&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenAndra&show_icons=true&count_private=true&theme=radical)
 
 ## About Me
 

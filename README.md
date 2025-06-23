@@ -12,8 +12,8 @@
 - 🧠 Passionate about **Cloud Computing**, **DevOps**, and **Full-Stack Engineering**
 - 🔭 Currently building **cloud-native applications** and scalable **microservices**
 - 🌱 Deep-diving into **Terraform**, **Kubernetes**, and **Next.js**
-- 💬 Ask me anything [here](https://github.com/PraveenAndra/PraveenAndra/issues/1)!
-- 📫 Reach me at: [sandra@iu.edu](mailto:sandra@iu.edu)
+- 💬 Ask me anything [here](https://github.com/PraveenAndra/PraveenAndra/issues)!
+- 📫 Reach me at: [sandra@iu.edu](mailto:satyasaipraveenandra@gmail.com)
 
 ---
 
